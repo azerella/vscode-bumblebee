@@ -15,6 +15,17 @@ Then navigate to `Preferences > Color Theme > Bumblebee`.
 
 [< todo >](todo)
 
+## Palette
+
+```bash
+Yellow:         #FFDC00
+Background:     #0c0c0c
+Border:         #212121
+Border-alt:     #121212
+Border-light:   #818181
+White:          #ffccff
+```
+
 ## Local development
 
 ```javascript
