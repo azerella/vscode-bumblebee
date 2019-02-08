@@ -2,6 +2,9 @@
   "name": "vscode-bumblebee",
   "version": "0.1.0",
   "description": "Bumble Bee theme for vscode.",
+  "scripts": {
+    "build": "vsce package"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adamzerella/vscode-bumblebee.git"
@@ -41,5 +44,6 @@
       }
     ]
   },
-  "displayName": "bumblebee"
+  "displayName": "Bumble Bee",
+  "publisher": "adamzerella"
 }
