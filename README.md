@@ -1,5 +1,5 @@
 # vscode-bumblebee
-> 🐝 Bumblebee theme for vscode
+> 🐝 Bumble Bee theme for vscode
 
 A black and yellow color theme for `vscode` that meets [WCAG 2.1 AAA](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) colour contrast standards.
 
@@ -9,26 +9,21 @@ A black and yellow color theme for `vscode` that meets [WCAG 2.1 AAA](https://ww
 ext install bumblebee
 ```
 
-Then navigate to `Preferences > Color Theme > Bumblebee`.
+Then navigate to `Preferences > Color Theme > Bumble Bee`.
 
 ## Screenshot
 
-[< todo >](todo)
+![bumble bee theme](./bumblebee.png)
 
 ## Palette
 
 ```bash
-Yellow:         #FFDC00
-Background:     #0c0c0c
-Border:         #212121
-Border-alt:     #121212
-Border-light:   #818181
-White:          #ffccff
+@todo
 ```
 
 ## Local development
 
-```javascript
+```bash
 # NPM
 npm i
 
@@ -36,16 +31,7 @@ npm i
 yarn install
 ```
 
-## Test
-To verify the colour codes used meet the [WCAG 2.1 AAA](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) color contrast standard.
-
-```bash
-# NPM
-npm test
-
-# Yarn
-yarn test
-```
+Then press `F5` to launch a live preview.
 
 ## Contributors
 <div style="display:inline;">

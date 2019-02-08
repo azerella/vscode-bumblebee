@@ -1,7 +1,7 @@
 {
   "name": "vscode-bumblebee",
   "version": "0.1.0",
-  "description": "Bumblebee theme for vscode.",
+  "description": "Bumble Bee theme for vscode.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adamzerella/vscode-bumblebee.git"
@@ -23,22 +23,23 @@
   "homepage": "https://github.com/adamzerella/vscode-bumblebee#readme",
   "devDependencies": {
     "generator-code": "^1.1.46",
+    "vsce": "^1.56.0",
     "yo": "^2.0.5"
   },
   "engines": {
     "vscode": "^1.31.0"
   },
   "categories": [
-      "Themes"
+    "Themes"
   ],
   "contributes": {
-      "themes": [
-          {
-              "label": "Bumble Bee",
-              "uiTheme": "vs-dark",
-              "path": "./theme.json"
-          }
-      ]
+    "themes": [
+      {
+        "label": "Bumble Bee",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
   },
   "displayName": "bumblebee"
 }
