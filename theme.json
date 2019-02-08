@@ -6,7 +6,7 @@
 		"foreground": "#9C9C9C",
 		"widget.shadow": "#141925",
 		"selection.background": "#2a3546fd",
-		"descriptionForeground": "#bad5a",
+		"descriptionForeground": "#DDDDDD",
 		"errorForeground": "",
 
 		"textBlockQuote.background": "#212121",
@@ -22,9 +22,9 @@
 		"button.hoverBackground": "#fac761",
 
 		"dropdown.background": "#212121",
-		"dropdown.listBackground": "",
+		"dropdown.listBackground": "red",
 		"dropdown.border": "#373e4c",
-		"dropdown.foreground": "#616161",
+		"dropdown.foreground": "#F9E861",
 
 		"input.background": "#212121",
 		"input.border": "#373e4c",
@@ -157,7 +157,7 @@
 		"panelTitle.inactiveForeground": "#616161",
 
 		"statusBar.background": "#262626",
-		"statusBar.foreground": "#616161",
+		"statusBar.foreground": "#F9E861",
 		"statusBar.border": "#3c3c3c",
 		"statusBar.debuggingBackground": "#f29e74",
 		"statusBar.debuggingForeground": "#262626",
