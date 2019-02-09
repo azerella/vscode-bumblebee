@@ -45,5 +45,6 @@
     ]
   },
   "displayName": "Bumble Bee",
-  "publisher": "adamzerella"
+  "publisher": "adamzerella",
+  "icon": "https://github.com/adamzerella/vscode-bumblebee/blob/master/icon.png"
 }
