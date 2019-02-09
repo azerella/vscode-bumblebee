@@ -7,10 +7,10 @@
 		"widget.shadow": "#141925",
 		"selection.background": "#2a3546fd",
 		"descriptionForeground": "#DDDDDD",
-		"errorForeground": "",
+		"errorForeground": "#F9E861",
 
 		"textBlockQuote.background": "#212121",
-		"textBlockQuote.border": "",
+		"textBlockQuote.border": "#F9E861",
 		"textCodeBlock.background": "",
 		"textLink.activeForeground": "#F9E861",
 		"textLink.foreground": "#F9E861",
