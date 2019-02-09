@@ -1,6 +1,6 @@
 {
-  "name": "vscode-bumblebee",
-  "version": "0.1.0",
+  "name": "bumblebee",
+  "version": "0.1.1",
   "description": "Bumble Bee theme for vscode.",
   "scripts": {
     "build": "vsce package"
