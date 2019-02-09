@@ -26,7 +26,7 @@
   "homepage": "https://github.com/adamzerella/vscode-bumblebee#readme",
   "devDependencies": {
     "generator-code": "^1.1.46",
-    "vsce": "^1.56.0",
+    "vsce": "^1.57.0",
     "yo": "^2.0.5"
   },
   "engines": {
@@ -46,5 +46,5 @@
   },
   "displayName": "Bumble Bee",
   "publisher": "adamzerella",
-  "icon": "https://github.com/adamzerella/vscode-bumblebee/blob/master/icon.png"
+  "icon": "icon.png"
 }
