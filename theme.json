@@ -49,7 +49,7 @@
 		"progressBar.background": "#F9E861",
 
 		"list.activeSelectionBackground": "#3c3c3c",
-		"list.activeSelectionForeground": "#616161",
+		"list.activeSelectionForeground": "#F9E861",
 		"list.focusBackground": "#3c3c3c",
 		"list.focusForeground": "#616161",
 		"list.highlightForeground": "#F9E861",
